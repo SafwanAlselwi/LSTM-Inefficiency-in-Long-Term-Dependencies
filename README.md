@@ -1,4 +1,4 @@
-# LSTM-Inefficiency-in-Long-Term-Dependencies-
+# LSTM Inefficiency in Long-Term Dependencies Regression Problems
 **Python codes for the experiment about LSTM inefficiency in long-term dependencies**
 
 **Abstract**
@@ -10,9 +10,12 @@
 **Keywords**: Recurrent Neural Networks, regression problems, Vanishing Gradient Problem, Long Short-Term Memory, long-term dependencies
 
 
+<br><br>
+**Please consider a citation:**
 <br>
-If you like our work, please consider a citation using this BibTeX:
-
+Safwan Mahmood Al-Selwi, Mohd Fadzil Hassan, Said Jadid Abdulkadir, & Amgad Muneer. (2023). LSTM Inefficiency in Long-Term Dependencies Regression Problems. Journal of Advanced Research in Applied Sciences and Engineering Technology, 30(3), 16–31. https://doi.org/10.37934/araset.30.3.1631
+<br><br>
+or using this BibTeX:
 ```
 @article{SafwanAlselwi2023LSTM_Inefficiency, 
 	author={Safwan Mahmood Al-Selwi and Mohd Fadzil Hassan and Said Jadid Abdulkadir and Amgad Muneer}, 
@@ -27,22 +30,8 @@ If you like our work, please consider a citation using this BibTeX:
 }
 ```
 
-**Authors:**
-<br>
+**Corresponding author**
 <br>Safwan Mahmood Al-Selwi
-<br>Department of Computer and Information Sciences, Universiti Teknologi PETRONAS, 32610 Seri Iskandar, Perak Darul Ridzuan, Malaysia
-
-Mohd Fadzil Hassan
-<br>Center for Research in Data Science (CeRDaS), Universiti Teknologi PETRONAS, 32610 Seri Iskandar, Perak Darul Ridzuan, Malaysia
-
-Said Jadid Abdulkadir
-<br>Center for Research in Data Science (CeRDaS), Universiti Teknologi PETRONAS, 32610 Seri Iskandar, Perak Darul Ridzuan, Malaysia
-
-Amgad Muneer
-<br>Department of Imaging Physics, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA
-
-**Contact us:**
-<br>Safwan Al-selwi
 <br>safwan_21002827@utp.edu.my
 
 <br>Thank you
